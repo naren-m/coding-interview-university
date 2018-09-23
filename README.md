@@ -1,5 +1,10 @@
 # Coding Interview University
 
+## Few more like this
+
+- https://github.com/yangshun/tech-interview-handbook
+- https://github.com/andreis/interview#algorithms
+
 ## What is it?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
